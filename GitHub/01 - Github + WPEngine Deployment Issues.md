@@ -8,6 +8,7 @@
 
 * [ ] What happens to HTML / Notes / VSCode Settings / Other files that are required to be in the project not needed to be pushed to live site. Those will be included full time OR is there a way to not push them to demo site from GitHub repo.
 * [ ] The bundle and bundle.min files have a lots and lots on conflicts then resolving those can be pretty tough. Also we need to re-create the bundle files for CSS changes on both end after merging so how that will be handled? Fetch the repo, run npm locally again and push it again to repo after merge conflicts?
+* [ ] The online merge conflict resolver is very slow for very big files like bundle files.
 
 ## New Setup From already created GitHub repo
 
