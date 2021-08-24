@@ -21,3 +21,7 @@
 ## GitHub Merging & Pull Request
 
 * [ ]  When you fetch the upstream to your current fork, the master will get updated with upstream/master but what about the origin/development that is still behind in the current fork.
+
+## Testing
+
+* [ ] This is a test commit
