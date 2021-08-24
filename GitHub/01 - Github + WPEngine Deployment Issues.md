@@ -13,3 +13,7 @@
 ## New Setup From already created GitHub repo
 
 * [ ] The user copying repo cannot have any old folders like Plugins / Mu Plugins / Uploads / Theme folder etc. Else the Git bash will not download the new repo due to overwrite possibility.
+
+## NPM Gulp
+
+* [ ] Issue when you open merge conflicts directly from GitHub desktop, the NPM commands execute on the base WP directory not in the WP Theme directory.
