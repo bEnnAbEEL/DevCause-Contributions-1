@@ -26,3 +26,7 @@
 ## Backend team issues with Frontend team
 
 * [ ] If someone updates the HTML of any place, then there should be some place to note it down. Backend team cannot always check for HTML changes itself.
+
+## Testing
+
+* [ ] This is just a testing checkbox
