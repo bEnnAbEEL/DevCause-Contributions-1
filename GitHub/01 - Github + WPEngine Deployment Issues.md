@@ -22,3 +22,7 @@
 
 * [ ]  When you fetch the upstream to your current fork, the master will get updated with upstream/master but what about the origin/development that is still behind in the current fork.
 * [ ]  In the `blocks.php` file some block's registration gets missed while merging. It requires to re-register that block. ACF fields are present.
+
+## Backend team issues with Frontend team
+
+* [ ] If someone updates the HTML of any place, then there should be some place to note it down. Backend team cannot always check for HTML changes itself.
